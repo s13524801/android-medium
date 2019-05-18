@@ -44,7 +44,7 @@
 
 [Implementing Search-on-type in Android with Coroutines](https://android.jlelse.eu/implementing-search-on-type-in-android-with-coroutines-ab117c8f13a4)
 
-[MVVM — How View and ViewModel should communicate?](https://android.jlelse.eu/mvvm-how-view-and-viewmodel-should-communicate-8a386ce1bb42)
+[MVVM — How View and ViewModel should communicate?](https://android.jlelse.eu/mvvm-how-view-and-viewmodel-should-communicate-8a386ce1bb42) 💯
 
 [Advocating against (some) Kotlin expressions.](https://proandroiddev.com/advocating-against-kotlin-expressions-73acfa819ca7)
 
