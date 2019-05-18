@@ -1,5 +1,7 @@
 2019-5-16
 
+[The Journey Of Launching An Android Activity](https://medium.com/@Myyousseff/the-journey-of-launching-an-android-activity-9b64e11dc157) 💯
+
 [Exploring in-app updates on Android](https://medium.com/@hitherejoe/exploring-in-app-updates-on-android-57f1aee011cb) 💯
 
 [Demystifying CoroutineContext](https://proandroiddev.com/demystifying-coroutinecontext-1ce5b68407ad)
