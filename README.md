@@ -1,3 +1,19 @@
+2019-5-22
+
+[Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e) 💯
+
+[Reel Search and LayoutManager: An Android journey](https://blog.usejournal.com/reel-search-and-layoutmanager-an-android-journey-e2f925c8410f)
+
+[Notify RecyclerView On a Specific Item Update](https://medium.com/google-developer-experts/notifying-recyclerview-on-a-specific-change-b36e6dc59e0f)
+
+[Using Navigation Architecture Component in a large banking app](https://medium.com/google-developer-experts/using-navigation-architecture-component-in-a-large-banking-app-ac84936a42c2)
+
+[Flexbox for Android Developers](https://android.jlelse.eu/flexbox-for-android-developers-89ccbf9bfb36)
+
+[Kotlin Demystified: The power of `when`](https://medium.com/androiddevelopers/kotlin-demystified-the-power-of-when-f0ac616ddd1a)
+
+[Advocating against (some) Kotlin expressions.](https://proandroiddev.com/advocating-against-kotlin-expressions-73acfa819ca7)
+
 2019-5-16
 
 [The Journey Of Launching An Android Activity](https://medium.com/@Myyousseff/the-journey-of-launching-an-android-activity-9b64e11dc157) 💯
