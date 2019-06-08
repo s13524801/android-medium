@@ -1,6 +1,6 @@
 2019-05-30
 
-[NestedTouchScrollingLayout](https://github.com/JarvisGG/NestedTouchScrollingLayout)
+[Annotation processor: Say less, mean more.](https://proandroiddev.com/annotation-processor-say-less-mean-more-b0e23dd9a3e2) 💯
 
 [Understanding Clean Code in Android](https://medium.com/mindorks/understanding-clean-code-in-android-ebe42ad89a99) 💯
 
