@@ -1,3 +1,7 @@
+2019-06-06
+
+[Make UX better with Android Animations](https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a)
+
 2019-05-30
 
 [Annotation processor: Say less, mean more.](https://proandroiddev.com/annotation-processor-say-less-mean-more-b0e23dd9a3e2) 💯
