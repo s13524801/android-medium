@@ -1,6 +1,16 @@
 2019-06-06
 
+[Smooth RecyclerView Scrolling in Android](https://medium.com/swlh/4-steps-to-android-dot-tabitem-dadeeef44f51) 💯
+
+[4 steps to Android Dot TabItem](https://medium.com/swlh/4-steps-to-android-dot-tabitem-dadeeef44f51)
+
+[All-in-One — Android TabLayout and TabItem](https://medium.com/swlh/android-viewpager2-tablayout-3099aae2f396)
+
+[Android ViewPager2 & TabLayout](https://medium.com/swlh/android-viewpager2-tablayout-3099aae2f396)
+
 [Make UX better with Android Animations](https://proandroiddev.com/make-ux-better-with-android-animations-207992d6f98a)
+
+[Mobile App UI Library](https://medium.com/@elenalopiccolo/mobile-app-ui-library-e2682aa34db4)
 
 2019-05-30
 
