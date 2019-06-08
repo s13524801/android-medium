@@ -1,3 +1,17 @@
+2019-05-30
+
+[NestedTouchScrollingLayout](https://github.com/JarvisGG/NestedTouchScrollingLayout)
+
+[Understanding Clean Code in Android](https://medium.com/mindorks/understanding-clean-code-in-android-ebe42ad89a99) 💯
+
+[Animating Keyboard Appearance in Android Application](https://proandroiddev.com/animating-keyboard-appearance-in-android-application-425a2a26de9a) 💯
+
+[Replace ProgressDialog with a progress button in your app](https://proandroiddev.com/replace-progressdialog-with-a-progress-button-in-your-app-14ed1d50b44) 💯
+
+[How not to use sealed classes and LiveData for state management](https://proandroiddev.com/how-not-to-use-sealed-classes-and-livedata-for-state-management-4bfcaf314e96)
+
+[19 tips for Gradle in Android projects — 2019 Edition](https://medium.com/google-developer-experts/19-tips-for-gradle-in-android-projects-2019-edition-11af704eb06e)
+
 2019-5-22
 
 [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e) 💯
