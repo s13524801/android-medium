@@ -26,7 +26,7 @@
 
 [19 tips for Gradle in Android projects — 2019 Edition](https://medium.com/google-developer-experts/19-tips-for-gradle-in-android-projects-2019-edition-11af704eb06e)
 
-2019-5-22
+2019-05-22
 
 [Kotlin Coroutines patterns & anti-patterns](https://proandroiddev.com/kotlin-coroutines-patterns-anti-patterns-f9d12984c68e) 💯
 
@@ -42,7 +42,7 @@
 
 [Advocating against (some) Kotlin expressions.](https://proandroiddev.com/advocating-against-kotlin-expressions-73acfa819ca7)
 
-2019-5-16
+2019-05-16
 
 [The Journey Of Launching An Android Activity](https://medium.com/@Myyousseff/the-journey-of-launching-an-android-activity-9b64e11dc157) 💯
 
@@ -74,6 +74,8 @@
 
 [Android NDK. Calling Kotlin from native code](https://medium.com/yalantis-android/android-ndk-calling-kotlin-from-native-code-40a1cb0f6164)
 
+2019-05-05
+
 [Android NDK: Interaction of Kotlin and C/C++](https://proandroiddev.com/android-ndk-interaction-of-kotlin-and-c-c-5e19e35bac74)
 
 [Android NDK: JNI Primer and Cheat Sheet](https://medium.com/tompee/android-ndk-jni-primer-and-cheat-sheet-18dd006ec07f)
@@ -88,11 +90,11 @@
 
 [Implementing Search-on-type in Android with Coroutines](https://android.jlelse.eu/implementing-search-on-type-in-android-with-coroutines-ab117c8f13a4)
 
+2019-04-30
+
 [MVVM — How View and ViewModel should communicate?](https://android.jlelse.eu/mvvm-how-view-and-viewmodel-should-communicate-8a386ce1bb42) 💯
 
 [Advocating against (some) Kotlin expressions.](https://proandroiddev.com/advocating-against-kotlin-expressions-73acfa819ca7)
-
-2019-5-5
 
 [Android Architecture Components: ProcessLifecycleOwner](https://medium.com/trendyol-tech/android-architecture-components-processlifecycleowner-26aa905d4bc5) 💯
 
@@ -101,6 +103,8 @@
 [Coroutines on Android (part II): Getting started](https://medium.com/androiddevelopers/coroutines-on-android-part-ii-getting-started-3bff117176dd) 💯
 
 [Coroutines on Android (part I): Getting the background](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb) 💯
+
+2019-04-22
 
 [Easy Coroutines in Android: viewModelScope](https://medium.com/androiddevelopers/easy-coroutines-in-android-viewmodelscope-25bffb605471)
 
@@ -114,11 +118,11 @@
 
 [Forget RxJava: Kotlin Coroutines are all you need. Part 2/2 — Channels.](https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-d4dbdb509708)
 
+2019-04-16
+
 [Forget RxJava: Kotlin Coroutines are all you need. Part 1/2](https://proandroiddev.com/forget-rxjava-kotlin-coroutines-are-all-you-need-part-1-2-4f62ecc4f99b)
 
 [Why Kotlin Sucks](https://proandroiddev.com/why-kotlin-sucks-ab27a6b15cb6) 💯
-
-2019-4-30
 
 [Kotlin Coroutines for asynchronous programming and more](https://proandroiddev.com/kotlin-coroutines-for-asynchronous-programming-and-more-1892db686b1)
 
@@ -127,6 +131,8 @@
 [How coroutines switch back to the main thread.](https://proandroiddev.com/how-coroutines-switch-back-to-the-main-thread-413fa6dc507a) 💯
 
 [Launching a Kotlin Coroutine for immediate execution on the Main thread](https://medium.com/@trionkidnapper/launching-a-kotlin-coroutine-for-immediate-execution-on-the-main-thread-8555e701163b)
+
+2019-04-10
 
 [How Kotlin helps you avoid memory leaks](https://proandroiddev.com/how-kotlin-helps-you-avoid-memory-leaks-e2680cf6e71e)
 
