@@ -1,3 +1,7 @@
+2019-06-10
+
+[Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123) 💯
+
 2019-06-06
 
 [Smooth RecyclerView Scrolling in Android](https://medium.com/swlh/4-steps-to-android-dot-tabitem-dadeeef44f51) 💯
