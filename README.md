@@ -1,5 +1,21 @@
 2019-06-10
 
+[Creating Custom Views in Android](https://medium.com/rubicon-stories/creating-custom-views-in-android-a5589899df87) 💯
+
+[Working with Kotlin Coroutines](https://medium.com/swlh/working-with-kotlin-coroutines-507433ddd9e3)
+
+[Context and memory leaks in Android](https://medium.com/@jrinconada/context-and-memory-leaks-in-android-82a39ed33002) 💯
+
+[How to manage a complex DeepLinks scheme on your Android App](https://android.jlelse.eu/how-to-manage-a-complex-deeplinks-scheme-on-your-android-app-d441143cec7e) 💯
+
+[19 tips for Gradle in Android projects — 2019 Edition](https://medium.com/google-developer-experts/19-tips-for-gradle-in-android-projects-2019-edition-11af704eb06e) 💯
+
+[WorkManager meets Kotlin](https://medium.com/androiddevelopers/workmanager-meets-kotlin-b9ad02f7405e)
+
+[Android JobIntentService for background task](https://medium.com/mindorks/android-jobintentservice-for-background-task-e77bfa21fffa)
+
+[Animate Everything! (Android Animation Showcase)](https://android.jlelse.eu/animate-everything-android-animation-showcase-7b7debee0e2a)
+
 [Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123) 💯
 
 2019-06-06
