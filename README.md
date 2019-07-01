@@ -1,3 +1,7 @@
+2019-06-16
+
+[SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
+
 2019-06-10
 
 [Creating Custom Views in Android](https://medium.com/rubicon-stories/creating-custom-views-in-android-a5589899df87) 💯
