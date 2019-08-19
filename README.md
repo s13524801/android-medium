@@ -1,3 +1,23 @@
+2019-08-19 [app bundle] 💯
+
+[Android App Bundles](https://developer.android.com/guide/app-bundle)
+
+[Patterns for accessing code from Dynamic Feature Modules](https://medium.com/androiddevelopers/patterns-for-accessing-code-from-dynamic-feature-modules-7e5dca6f9123)
+
+[Patchwork Plaid — A modularization story](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e)
+
+[android-dynamic-features](https://github.com/googlesamples/android-dynamic-features)
+
+[android-dynamic-code-loading](https://github.com/googlesamples/android-dynamic-code-loading)
+
+2019-08-12
+
+[Collections and sequences in Kotlin](https://medium.com/androiddevelopers/collections-and-sequences-in-kotlin-55db18283aca) 💯
+
+[Callbacks and Kotlin Flows](https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf)
+
+[The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781) 💯
+
 2019-06-16
 
 [SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
