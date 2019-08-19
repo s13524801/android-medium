@@ -1,4 +1,4 @@
-2019-08-19 [app bundle] 💯
+2019-08-19 app bundle 💯
 
 [Android App Bundles](https://developer.android.com/guide/app-bundle)
 
@@ -17,6 +17,8 @@
 [Callbacks and Kotlin Flows](https://medium.com/@elizarov/callbacks-and-kotlin-flows-2b53aa2525cf)
 
 [The Mystery of Mutable Kotlin Collections](https://proandroiddev.com/the-mystery-of-mutable-kotlin-collections-e82cbf5d781) 💯
+
+[When to load data in ViewModels](https://proandroiddev.com/when-to-load-data-in-viewmodels-ad9616940da7) 💯
 
 2019-06-16
 
