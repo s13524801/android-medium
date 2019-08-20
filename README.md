@@ -1,4 +1,4 @@
-2019-08-19 app bundle 💯
+2019-08-19 App Bundles 💯
 
 [Android App Bundles](https://developer.android.com/guide/app-bundle)
 
@@ -6,9 +6,11 @@
 
 [Patchwork Plaid — A modularization story](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e)
 
-[android-dynamic-features](https://github.com/googlesamples/android-dynamic-features)
+[googlesamples/android-dynamic-features](https://github.com/googlesamples/android-dynamic-features)
 
-[android-dynamic-code-loading](https://github.com/googlesamples/android-dynamic-code-loading)
+[googlesamples/android-dynamic-code-loading](https://github.com/googlesamples/android-dynamic-code-loading)
+
+[iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw)
 
 2019-08-12
 
