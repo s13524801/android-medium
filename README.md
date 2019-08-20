@@ -6,6 +6,8 @@
 
 [Patchwork Plaid — A modularization story](https://medium.com/androiddevelopers/a-patchwork-plaid-monolith-to-modularized-app-60235d9f212e)
 
+[Android Dynamic Feature Modules : The Future](https://medium.com/mindorks/dynamic-feature-modules-the-future-4bee124c0f1)
+
 [googlesamples/android-dynamic-features](https://github.com/googlesamples/android-dynamic-features)
 
 [googlesamples/android-dynamic-code-loading](https://github.com/googlesamples/android-dynamic-code-loading)
