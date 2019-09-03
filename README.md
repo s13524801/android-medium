@@ -1,3 +1,11 @@
+2019-08-29
+
+[Kotlin: Constructors](https://itnext.io/kotlin-constructors-6233e810a5bd) 💯
+
+[Motional Intelligence: Build smarter animations](https://medium.com/androiddevelopers/motional-intelligence-build-smarter-animations-821af4d5f8c0)
+
+[Let's get beyond null safety](https://coroutinedispatcher.blogspot.com/2019/08/lets-get-beyond-null-safet.html)
+
 2019-08-19 App Bundles 💯
 
 [Android App Bundles](https://developer.android.com/guide/app-bundle)
