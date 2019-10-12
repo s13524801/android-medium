@@ -1,4 +1,4 @@
-2019-10-16
+2019-10-16 View Binding 💯
 
 [Hello ViewBinding, goodbye findViewById](https://proandroiddev.com/hello-viewbinding-goodbye-findviewbyid-edca92b397c)
 
@@ -18,7 +18,9 @@
 
 [Motional Intelligence: Build smarter animations](https://medium.com/androiddevelopers/motional-intelligence-build-smarter-animations-821af4d5f8c0)
 
-[Let's get beyond null safety](https://coroutinedispatcher.blogspot.com/2019/08/lets-get-beyond-null-safet.html)
+[Let's get beyond null safety](https://coroutinedispatcher.blogspot.com/2019/08/lets-get-beyond-null-safet.html) 💯
+
+[Interface Singleton in Kotlin](https://proandroiddev.com/interface-singleton-in-kotlin-4c14d862cd67) 💯
 
 [learn-regex](https://github.com/ziishaned/learn-regex)
 
