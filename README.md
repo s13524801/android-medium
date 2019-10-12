@@ -1,5 +1,7 @@
 2019-10-16
 
+[Hello ViewBinding, goodbye findViewById](https://proandroiddev.com/hello-viewbinding-goodbye-findviewbyid-edca92b397c)
+
 [Exploring View Binding on Android](https://joebirch.co/2019/09/18/exploring-view-binding-on-android)
 
 [View Binding: Internals](https://blog.stylingandroid.com/view-binding-internals)
