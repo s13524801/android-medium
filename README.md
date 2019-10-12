@@ -1,3 +1,15 @@
+2019-10-16
+
+[Exploring View Binding on Android](https://joebirch.co/2019/09/18/exploring-view-binding-on-android)
+
+[View Binding: Internals](https://blog.stylingandroid.com/view-binding-internals)
+
+[View Binding: Performance](https://blog.stylingandroid.com/view-binding-performance)
+
+2019-10-10
+
+[Parallax Scrolling](https://blog.stylingandroid.com/parallax-scrolling)
+
 2019-08-29
 
 [Kotlin: Constructors](https://itnext.io/kotlin-constructors-6233e810a5bd) 💯
