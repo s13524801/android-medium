@@ -1,3 +1,7 @@
+2019-10-20
+
+[20 Python Snippets You Should Learn Today](https://medium.com/better-programming/20-python-snippets-you-should-learn-today-8328e26ff124)
+
 2019-10-16 View Binding 💯
 
 [Hello ViewBinding, goodbye findViewById](https://proandroiddev.com/hello-viewbinding-goodbye-findviewbyid-edca92b397c)
@@ -134,7 +138,7 @@
 
 [Jetpack Compose — Android Apps without XML](https://android.jlelse.eu/jetpack-compose-android-apps-without-xml-534d74448778)
 
-[Drag and reorder RecyclerView items in a user friendly manner](https://medium.com/@yfujiki/drag-and-reorder-recyclerview-items-in-a-user-friendly-manner-1282335141e9)
+[Drag and reorder RecyclerView items in a user friendly manner](https://medium.com/@yfujiki/drag-and-reorder-recyclerview-items-in-a-user-friendly-manner-1282335141e9) 💯
 
 2019-5-10
 
