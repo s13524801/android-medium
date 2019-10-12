@@ -58,8 +58,6 @@
 
 [SingleLiveEvent to help you work with LiveData and events](https://proandroiddev.com/singleliveevent-to-help-you-work-with-livedata-and-events-5ac519989c70)
 
-2019-06-10
-
 [Creating Custom Views in Android](https://medium.com/rubicon-stories/creating-custom-views-in-android-a5589899df87) 💯
 
 [Working with Kotlin Coroutines](https://medium.com/swlh/working-with-kotlin-coroutines-507433ddd9e3)
@@ -67,6 +65,8 @@
 [Context and memory leaks in Android](https://medium.com/@jrinconada/context-and-memory-leaks-in-android-82a39ed33002) 💯
 
 [How to manage a complex DeepLinks scheme on your Android App](https://android.jlelse.eu/how-to-manage-a-complex-deeplinks-scheme-on-your-android-app-d441143cec7e) 💯
+
+2019-06-10
 
 [19 tips for Gradle in Android projects — 2019 Edition](https://medium.com/google-developer-experts/19-tips-for-gradle-in-android-projects-2019-edition-11af704eb06e) 💯
 
