@@ -1,3 +1,17 @@
+2019-10-26 gradle plugin 💯
+
+[fataar-gradle-plugin](https://github.com/Mobbeel/fataar-gradle-plugin)
+
+2019-10-26 transform 💯
+
+[matrix](https://github.com/Tencent/matrix)
+
+[booster](https://github.com/didi/booster)
+
+[DroidAssist](https://github.com/didi/DroidAssist)
+
+[iqiyi/Qigsaw](https://github.com/iqiyi/Qigsaw)
+
 2019-10-20
 
 [20 Python Snippets You Should Learn Today](https://medium.com/better-programming/20-python-snippets-you-should-learn-today-8328e26ff124)
