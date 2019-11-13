@@ -4,6 +4,12 @@
 
 2019-10-26 gradle plugin 💯
 
+[gradle-incap-helper](https://github.com/tbroyer/gradle-incap-helper)
+
+[MethodTraceMan](https://github.com/zhengcx/MethodTraceMan)
+
+[Assisted injection for JSR 330.](https://github.com/square/AssistedInject)
+
 [fataar-gradle-plugin](https://github.com/Mobbeel/fataar-gradle-plugin)
 
 2019-10-26 transform 💯
