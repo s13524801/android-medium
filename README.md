@@ -1,3 +1,7 @@
+2019-11-10
+
+[Calculates the height of a floating soft input Android keyboard](https://github.com/siebeprojects/samples-keyboardheight)
+
 2019-10-26 gradle plugin 💯
 
 [fataar-gradle-plugin](https://github.com/Mobbeel/fataar-gradle-plugin)
