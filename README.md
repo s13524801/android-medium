@@ -1,6 +1,6 @@
 2019-11-26
 
-[How to enable logging on any released Android app](https://proandroiddev.com/how-to-enable-logging-on-any-android-app-5880f2d1a6fc)
+[How to enable logging on any released Android app](https://proandroiddev.com/how-to-enable-logging-on-any-android-app-5880f2d1a6fc) 💯  
 
 [Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d) 💯    
 
