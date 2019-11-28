@@ -1,3 +1,11 @@
+2019-11-26
+
+[How to enable logging on any released Android app](https://proandroiddev.com/how-to-enable-logging-on-any-android-app-5880f2d1a6fc)
+
+[Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d) 💯    
+
+[Top Kotlin Blogs To Learn More In Kotlin](https://medium.com/mindorks/top-kotlin-blogs-to-learn-more-in-kotlin-82a6387e4dd6)
+
 2019-11-10
 
 [Calculates the height of a floating soft input Android keyboard](https://github.com/siebeprojects/samples-keyboardheight)
