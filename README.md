@@ -1,5 +1,7 @@
 2019-12-06
 
+[Kotlin not-to-do-list](https://docs.google.com/presentation/d/1YuO62Du3pVnoz3dtrU0XSYgcrzF77S4yygca_yiJDtM/edit#slide=id.g5c9f3ec942_0_47)
+
 [Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f) 💯
 
 [When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6) 💯  
