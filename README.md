@@ -1,6 +1,16 @@
+2019-12-06
+
+[Sealed Classes in Kotlin](https://medium.com/@sgkantamani/sealed-classes-in-kotlin-e48e072daca8)
+
+[When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6) 💯   
+
+[Kotlin: Serializable Objects](https://blog.stylingandroid.com/kotlin-serializable-objects) 💯 
+
 2019-11-26
 
 [How to enable logging on any released Android app](https://proandroiddev.com/how-to-enable-logging-on-any-android-app-5880f2d1a6fc) 💯  
+
+[dexpatcher-tool](https://github.com/DexPatcher/dexpatcher-tool)
 
 [Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d) 💯    
 
