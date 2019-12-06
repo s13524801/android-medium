@@ -1,10 +1,12 @@
 2019-12-06
 
+[Kotlin: Don’t just use LET for null check](https://medium.com/@elye.project/kotlin-dont-just-use-let-7e91f544e27f) 💯
+
+[When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6) 💯  
+
 [Sealed Classes in Kotlin](https://medium.com/@sgkantamani/sealed-classes-in-kotlin-e48e072daca8)
 
-[When NOT to Use LiveData](https://proandroiddev.com/when-not-to-use-livedata-6a1245b054a6) 💯   
-
-[Kotlin: Serializable Objects](https://blog.stylingandroid.com/kotlin-serializable-objects) 💯 
+[Kotlin: Serializable Objects](https://blog.stylingandroid.com/kotlin-serializable-objects) 
 
 2019-11-26
 
