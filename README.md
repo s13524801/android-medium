@@ -1,3 +1,7 @@
+2019-12-10
+
+[Coroutines — Non I/O blocking operations](https://medium.com/swlh/coroutines-non-i-o-blocking-operations-d94390a53ac9) 💯   
+
 2019-12-06
 
 [Kotlin not-to-do-list](https://docs.google.com/presentation/d/1YuO62Du3pVnoz3dtrU0XSYgcrzF77S4yygca_yiJDtM/edit#slide=id.g5c9f3ec942_0_47)
