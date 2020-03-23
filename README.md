@@ -1,3 +1,44 @@
+2020-03-20
+
+[Suspend functions under the hood](https://proandroiddev.com/how-do-coroutines-work-under-the-hood-803e6e9da8bb)
+
+[Video preloading/ precaching using Exoplayer 2 in Android](https://proandroiddev.com/video-preloading-precaching-using-exoplayer2-in-android-da340cc268d9) 💯
+
+[Managing Android Multi-module Project with Gradle Plugin and Kotlin](https://medium.com/wantedly-engineering/managing-android-multi-module-project-with-gradle-plugin-and-kotlin-4fcc126e7e49)
+
+[Using GSON with Kotlin’s Non-Null Types](https://medium.com/swlh/using-gson-with-kotlins-non-null-types-468b1c66bd8b)
+
+[Enum vs Sealed class — which one to choose?](https://blog.kotlin-academy.com/enum-vs-sealed-class-which-one-to-choose-dc92ce7a4df5)
+
+[activityResult; The new way](https://medium.com/mindorks/activityresult-the-new-way-808b001a3825)
+
+ 
+2019--03-16
+
+[Cancellation in coroutines](https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629) 💯
+
+[Improve Your App’s Performance With Profiler](https://medium.com/better-programming/improve-your-apps-performance-with-profiler-67e65153d5d9)
+
+[How to Dynamically Change an Android View’s Style](https://medium.com/better-programming/dynamically-change-android-views-style-56b18e59b33b)
+
+[The Elvis Operator in Kotlin](https://medium.com/better-programming/elvis-operator-in-kotlin-if-null-then-use-this-instead-e4989677a9b1)
+
+[10 Useful Kotlin String Extensions](https://medium.com/better-programming/10-useful-kotlin-string-extensions-46772b653f71)
+
+[How to Use Kotlin Sealed Classes for State Management](https://medium.com/better-programming/10-useful-kotlin-string-extensions-46772b653f71) 💯
+
+[Android Chat Interface Using RecyclerView and Groupie](https://medium.com/swlh/android-chat-interface-using-recyclerview-and-groupie-9c1a67e28e3e)
+
+2019-3-10
+
+[Advanced Programming With Kotlin](https://medium.com/better-programming/advanced-android-programming-with-kotlin-5e40b1be22bb)
+
+[Advanced Programming With Kotlin -Part 2](https://medium.com/android-dev-hacks/advanced-android-programming-with-kotlin-part-2-aae2a15258b0)
+
+[Advanced Programming in Kotlin (Part 3)](https://medium.com/better-programming/advanced-programming-in-kotlin-2e01fbc39134)
+
+[Advanced Android Programing in Kotlin — Part 4](https://medium.com/better-programming/advanced-android-programing-in-kotlin-part-4-187b88fea048)
+
 2019-12-16
 
 [Coroutines — Non I/O blocking operations](https://medium.com/swlh/coroutines-non-i-o-blocking-operations-d94390a53ac9) 💯 
