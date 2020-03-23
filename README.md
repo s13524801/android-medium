@@ -1,3 +1,61 @@
+2019-12-26
+
+droidcon 2019
+
+[Performance by Construction](https://www.droidcon.com/media-detail?video=380857541)
+
+[https://www.droidcon.com/media-detail?video=380848856](Playing Videos on Android? ExoPlayer2 at Your Service!)
+
+[Powering Modularization at Airbnb: Plugin Architecture](https://www.droidcon.com/media-detail?video=380845447)
+
+[Consistent Design with Custom Lint Checks](https://www.droidcon.com/media-detail?video=380845392)
+
+[Intro to App Modularization](https://www.droidcon.com/media-detail?video=380845032)
+
+[Coroutines Zero to Hero](https://www.droidcon.com/media-detail?video=380844098)
+
+2019-12-20
+
+droidcon 2018
+
+[Advanced Kotlin](https://www.droidcon.com/media-detail?video=323442932)
+
+[Building for the future at Snap](https://www.droidcon.com/media-detail?video=323437906)
+
+[Android performance monitoring with automation](https://www.droidcon.com/media-detail?video=323455316)
+
+[Improving Android Build performance](https://www.droidcon.com/media-detail?video=323785952)
+
+[Breaking Android Apps](https://www.droidcon.com/media-detail?video=323790607)
+
+[Mastering the Images Spectrum](https://www.droidcon.com/media-detail?video=328605983)
+
+[Debugging Application Performance](https://www.droidcon.com/media-detail?video=323464485)
+
+[Kotlin, Practically Speaking](https://www.droidcon.com/media-detail?video=328604188)
+
+[LiveData beyond VIewModels](https://www.droidcon.com/media-detail?video=328600688)
+
+[Coroutines: Kotlin Versus](https://www.droidcon.com/media-detail?video=328594710)
+
+2019-12-16
+
+droidcon 2018
+
+[Teach Kotlin to play well with Java - Optimization tips for Interoperability](https://www.droidcon.com/media-detail?video=328602329)
+
+[Deep Dive into the Android Gradle Plugin](https://www.droidcon.com/media-detail?video=328482657)
+
+[From Effective Java to Effective Kotlin](https://www.droidcon.com/media-detail?video=328416201)
+
+[Untangle your App: Efficient Threading in Android](https://www.droidcon.com/media-detail?video=328430182)
+
+[How HTTP/2 works, and how Android developers can leverage it](https://www.droidcon.com/media-detail?video=328431664)
+
+[Kotlin on Code Quality Tools](https://www.droidcon.com/media-detail?video=328404586)
+
+[Building for the future at Snapchat](https://www.droidcon.com/media-detail?video=348140440)
+
 2019-12-10
 
 [Coroutines — Non I/O blocking operations](https://medium.com/swlh/coroutines-non-i-o-blocking-operations-d94390a53ac9) 💯 
@@ -35,7 +93,9 @@
 
 [Top Kotlin Blogs To Learn More In Kotlin](https://medium.com/mindorks/top-kotlin-blogs-to-learn-more-in-kotlin-82a6387e4dd6)
 
-2019-11-10
+2019-11-10 
+
+gradle plugin
 
 [Calculates the height of a floating soft input Android keyboard](https://github.com/siebeprojects/samples-keyboardheight)
 
