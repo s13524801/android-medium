@@ -4,7 +4,7 @@ droidcon 2019
 
 [Performance by Construction](https://www.droidcon.com/media-detail?video=380857541)
 
-[https://www.droidcon.com/media-detail?video=380848856](Playing Videos on Android? ExoPlayer2 at Your Service!)
+[Playing Videos on Android? ExoPlayer2 at Your Service!](https://www.droidcon.com/media-detail?video=380848856)
 
 [Powering Modularization at Airbnb: Plugin Architecture](https://www.droidcon.com/media-detail?video=380845447)
 
