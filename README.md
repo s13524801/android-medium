@@ -93,13 +93,11 @@ droidcon 2018
 
 [Top Kotlin Blogs To Learn More In Kotlin](https://medium.com/mindorks/top-kotlin-blogs-to-learn-more-in-kotlin-82a6387e4dd6)
 
-2019-11-10 
-
-gradle plugin
-
 [Calculates the height of a floating soft input Android keyboard](https://github.com/siebeprojects/samples-keyboardheight)
 
-2019-10-26 gradle plugin 💯
+2019-10-26 
+
+gradle plugin
 
 [gradle-incap-helper](https://github.com/tbroyer/gradle-incap-helper)
 
@@ -109,7 +107,9 @@ gradle plugin
 
 [fataar-gradle-plugin](https://github.com/Mobbeel/fataar-gradle-plugin)
 
-2019-10-26 transform 💯
+2019-10-26 
+
+transform
 
 [matrix](https://github.com/Tencent/matrix)
 
@@ -123,7 +123,9 @@ gradle plugin
 
 [20 Python Snippets You Should Learn Today](https://medium.com/better-programming/20-python-snippets-you-should-learn-today-8328e26ff124)
 
-2019-10-16 View Binding 💯
+2019-10-16 
+
+View Binding
 
 [Hello ViewBinding, goodbye findViewById](https://proandroiddev.com/hello-viewbinding-goodbye-findviewbyid-edca92b397c)
 
@@ -149,7 +151,9 @@ gradle plugin
 
 [learn-regex](https://github.com/ziishaned/learn-regex)
 
-2019-08-19 App Bundles 💯
+2019-08-19 
+
+App Bundles
 
 [Android App Bundles](https://developer.android.com/guide/app-bundle)
 
