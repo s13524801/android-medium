@@ -1,6 +1,59 @@
+2019-03-16
+
+droidcon Berlin 2019 
+
+[Dekompiling](https://www.droidcon.com/media-detail?video=370862982)
+
+[A LUT (lot) of image filters on Android](https://www.droidcon.com/media-detail?video=353348763)
+
+[Improving Android Build Performance](https://www.droidcon.com/media-detail?video=352688995)
+
+[Kotlin Not-to-Do List - What we should avoid doing in Kotlin](https://www.droidcon.com/media-detail?video=352688794)
+
+[Modularization for dynamic delivery](https://www.droidcon.com/media-detail?video=352671532)
+
+[Deep diving into the Kotlin Coroutines API](https://www.droidcon.com/media-detail?video=352671093)
+
+[Android and the WebView](https://www.droidcon.com/media-detail?video=352671060)
+
+[Building SDKs - The Kotlin Way](https://www.droidcon.com/media-detail?video=352670357)
+
+
+2020-03-10
+
+droidcon NYC 2019
+
+[Road to modularization](https://www.droidcon.com/media-detail?video=362742393)
+
+[Advanced & Practical MotionLayout](https://www.droidcon.com/media-detail?video=362742385)
+
+[Android Studio Tips and Tricks Part 2](https://www.droidcon.com/media-detail?video=362742337)
+
+[(Android) Transformers - bytecode in disguise!](https://www.droidcon.com/media-detail?video=362742295)
+
+[Shark: Diving into the guts of LeakCanary's Hprof parser](https://www.droidcon.com/media-detail?video=362742252)
+
+[Modularizing your Android UI with Style Guide-Driven Development](https://www.droidcon.com/media-detail?video=362742243)
+
+[Tall Legacy App with 10 Pumps Kotlin](https://www.droidcon.com/media-detail?video=362742181)
+
+[SELECT * FROM Kotlin](https://www.droidcon.com/media-detail?video=362741006)
+
+[Diving into advanced Kotlin features](https://www.droidcon.com/media-detail?video=362740940)
+
+[Making a mountain out of a module](https://www.droidcon.com/media-detail?video=362619561)
+
+[Adapting Your Apps for Android Q Privacy Requirements](https://www.droidcon.com/media-detail?video=362619548)
+
+[Performance in a Kotlin world](https://www.droidcon.com/media-detail?video=362609611)
+
+[Git rm -r --cached .idea?](https://www.droidcon.com/media-detail?video=362619508)
+
+[Keynote: Being more than an Android Developer](https://www.droidcon.com/media-detail?video=362609270)
+
 2019-12-26
 
-droidcon 2019
+droidcon San Francisco 2019
 
 [Performance by Construction](https://www.droidcon.com/media-detail?video=380857541)
 
@@ -16,7 +69,7 @@ droidcon 2019
 
 2019-12-20
 
-droidcon 2018
+droidcon San Francisco 2018
 
 [Advanced Kotlin](https://www.droidcon.com/media-detail?video=323442932)
 
