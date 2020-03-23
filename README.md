@@ -1,3 +1,18 @@
+2019-12-16
+
+[Coroutines — Non I/O blocking operations](https://medium.com/swlh/coroutines-non-i-o-blocking-operations-d94390a53ac9) 💯 
+
+[Computed properties with property getters](https://okkotlin.com/computed-properties/) 💯
+
+[Writing clean models using extensions](https://okkotlin.com/clean-models/) 💯
+
+[Low-overhead wrappers using inline classes](https://okkotlin.com/inline-classes/)  💯
+
+[Kotlin Delegates in Android: Utilizing the power of Delegated Properties in Android development](https://proandroiddev.com/kotlin-delegates-in-android-1ab0a715762d)
+
+[Kotlin Coroutines to show alert dialog? Yeah, why not.
+](https://www.reddit.com/r/androiddev/comments/898j9j/kotlin_coroutines_to_show_alert_dialog_yeah_why/)
+
 2019-12-06
 
 [Kotlin not-to-do-list](https://docs.google.com/presentation/d/1YuO62Du3pVnoz3dtrU0XSYgcrzF77S4yygca_yiJDtM/edit#slide=id.g5c9f3ec942_0_47)
