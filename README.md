@@ -1,5 +1,7 @@
 2020-03-20
 
+[Shadow and Text on ImageView in Android](https://android.jlelse.eu/shadow-and-text-on-imageview-in-android-2fc87a9e6dfc)
+
 [Suspend functions under the hood](https://proandroiddev.com/how-do-coroutines-work-under-the-hood-803e6e9da8bb)
 
 [Video preloading/ precaching using Exoplayer 2 in Android](https://proandroiddev.com/video-preloading-precaching-using-exoplayer2-in-android-da340cc268d9) 💯
