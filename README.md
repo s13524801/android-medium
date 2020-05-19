@@ -1,3 +1,25 @@
+2020-05-30
+
+[Detecting Touch Gestures in Android](https://proandroiddev.com/detecting-touch-gestures-in-android-f8eb4a4faf98) 💯
+
+[Implementing ImageView transition between activities for pre-Lollipop devices.](https://medium.com/android-development-by-danylo/implementing-imageview-transition-between-activities-for-pre-lollipop-devices-8b24bc387a2a)
+
+[Phantom of the Coroutine](https://medium.com/@elizarov/phantom-of-the-coroutine-afc63b03a131)
+
+[Cancellation in coroutines](https://medium.com/androiddevelopers/cancellation-in-coroutines-aa6b90163629) 💯
+
+[Deep Dive into Activity Results API — No More onActivityResult()](https://android.jlelse.eu/activity-results-api-69be5a225e86) 💯
+
+2020-05-19
+
+[Understanding Kotlin Coroutines with this mental model](https://medium.com/@lukleDev/understanding-kotlin-coroutines-with-this-mental-model-e1205e3f9670)
+
+[Inline functions — under the hood](https://medium.com/androiddevelopers/inline-functions-under-the-hood-12ddcc0b3a56)
+
+[Coroutines and callbacks](https://www.coroutinedispatcher.com/2020/04/coroutines-and-callbacks.html)
+
+[Ooga-chaka: Git hooks to enforce code quality](https://proandroiddev.com/ooga-chaka-git-hooks-to-enforce-code-quality-11ce8d0d23cb)
+
 2020-03-20
 
 [Shadow and Text on ImageView in Android](https://android.jlelse.eu/shadow-and-text-on-imageview-in-android-2fc87a9e6dfc)
