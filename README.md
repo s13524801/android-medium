@@ -1,3 +1,18 @@
+2020-10-16
+
+[10 Tips to Speed Up Android Gradle Build Times](https://heartbeat.fritz.ai/10-tips-to-speed-up-android-gradle-build-times-c0ec665fc800)
+
+[How AndroidX changes the way we work with Activities and Fragments](https://medium.com/@miloszlewandowski/how-androidx-changes-the-way-we-work-with-activities-and-fragments-73b88d157678)
+
+[Don’t use LiveData in Repositories](https://proandroiddev.com/dont-use-livedata-in-repositories-f3bebe502ed3)
+
+[Kotlin sealed class for success and error handling](https://medium.com/swlh/kotlin-sealed-class-for-success-and-error-handling-d3054bef0d4e) 💯  
+
+[How RecyclerView works internally?](https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4)
+
+[When the keyboard meets Coroutines](https://medium.com/schibsted-tech-polska/when-the-keyboard-meets-coroutines-9b09c0b159e1)
+
+
 2020-05-30
 
 [Detecting Touch Gestures in Android](https://proandroiddev.com/detecting-touch-gestures-in-android-f8eb4a4faf98) 💯
