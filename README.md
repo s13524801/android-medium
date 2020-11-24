@@ -1,3 +1,9 @@
+2020-11-24
+
+[Substituting Android’s LiveData: StateFlow or SharedFlow?](https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5)
+
+[New Way Handle State, Event With Sealed Classes in Android](https://medium.com/swlh/new-way-handle-state-event-in-android-with-sealed-classes-75ad63560574)
+
 2020-10-16
 
 [10 Tips to Speed Up Android Gradle Build Times](https://heartbeat.fritz.ai/10-tips-to-speed-up-android-gradle-build-times-c0ec665fc800)
