@@ -1,3 +1,17 @@
+2020-12-10
+
+[Sonar-like animation](https://proandroiddev.com/sonar-like-animation-c1e7c5b291bd)
+
+[memalloc is a simple memory allocator.](https://github.com/arjun024/memalloc)
+
+[Lingver is a library to manage your application locale and language.](https://github.com/YarikSOffice/lingver)
+
+[WhatTheStack](https://github.com/haroldadmin/WhatTheStack)
+
+[Hunter is a framework to develop android gradle plugin based on ASM and Gradle Transform API.](https://github.com/Leaking/Hunter)
+
+[Say bye-bye to Android Jetifier](https://medium.com/dipien/say-bye-bye-to-android-jetifier-a7e0d388f5d6)
+
 2020-11-24
 
 [Substituting Android’s LiveData: StateFlow or SharedFlow?](https://proandroiddev.com/should-we-choose-kotlins-stateflow-or-sharedflow-to-substitute-for-android-s-livedata-2d69f2bd6fa5)
